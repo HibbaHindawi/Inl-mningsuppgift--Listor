@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/bin/Debug/net5.0/Inl-mningsuppgift--Listor.deps.json
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/bin/Debug/net5.0/Inl-mningsuppgift--Listor.runtimeconfig.json
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/bin/Debug/net5.0/Inl-mningsuppgift--Listor.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/bin/Debug/net5.0/Inl-mningsuppgift--Listor.dll
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/bin/Debug/net5.0/ref/Inl-mningsuppgift--Listor.dll
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/bin/Debug/net5.0/Inl-mningsuppgift--Listor.pdb
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/Inl-mningsuppgift--Listor.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/Inl-mningsuppgift--Listor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/Inl-mningsuppgift--Listor.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/Inl-mningsuppgift--Listor.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/Inl-mningsuppgift--Listor.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/Inl-mningsuppgift--Listor.dll
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/ref/Inl-mningsuppgift--Listor.dll
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/Inl-mningsuppgift--Listor.pdb
+/Users/hibba/Documents/GitHub/Inl-mningsuppgift--Listor/obj/Debug/net5.0/Inl-mningsuppgift--Listor.genruntimeconfig.cache
